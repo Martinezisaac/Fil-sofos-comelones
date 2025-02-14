@@ -1,12 +1,3 @@
-# Programacion paralela y concurrente
-# Mtro. Carlos Javier Cruz Franco
-
-# Filosofos Comelones
-    # Martinez Isaac
-    # Lopez Ruvalcaba Erick 
-    # Hernandez Lopez Diego
-    # Hernandez Gutierrez Emmanuel
-
 #Librerias
 import threading
 import concurrent.futures
@@ -177,7 +168,7 @@ tenedor2 = threading.Semaphore(1)
 tenedor3 = threading.Semaphore(1)  
 tenedor4 = threading.Semaphore(1)  
 tenedor5 = threading.Semaphore(1)  
-# .acquire() #Aduñarse del tenedor | Bloquear el recurso 
+# .acquire() #Adueñarse del tenedor | Bloquear el recurso 
 # .release() #Dejar el tenedor libre | Desbloquear el recurso
 
 # Iniciar la interfaz gráfica
