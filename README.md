@@ -39,3 +39,5 @@ Teniendo esto en cuenta, los tenedores funcionan como semáforos, y para ello se
 - 🔵 Pensando
 
 ## 🚀 Ejemplo de uso
+![Filósofos](Ejemplo.jpg)
+
